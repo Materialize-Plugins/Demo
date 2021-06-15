@@ -11,3 +11,7 @@ Text Domain:  ChildTheme
 */
 
 /* Write here your own personal stylesheet */
+
+body {
+	background-image: linear-gradient(to right top, #25a697, #00a6b0, #00a4c9, #009fdf, #1296eb);
+}

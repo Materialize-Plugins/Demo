@@ -27,9 +27,12 @@ html {
      font-family: "freight-micro-pro","Georgia",serif;
      font-size: 22px !important;
      line-height: 40px !important;
-     padding: 5px 15px !important;
+     padding: 7px 15px 5px 15px !important;
      border-radius: 3px !important;
      color: #000b16 !important;
+}
+.collapsible-head > p {
+    height: 10px;
 }
  .collapsible-head:focus {
      outline: 0 
@@ -481,11 +484,10 @@ html {
      line-height: 1.5;
      letter-spacing: normal;
      text-transform: none;
-     color: gray;
+     color: #4A4A4A;
      white-space: nowrap;
-     padding: 5px 15px;
+     padding: 5px 0px;
      float: right;
      -moz-font-feature-settings: 'liga';
      -moz-osx-font-smoothing: grayscale;
 }
-  
